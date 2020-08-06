@@ -24,7 +24,7 @@ heder = {'Host': 'thor.matahari.com',
            'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,ms;q=0.6'}
 
 data = {'emailAddress': 'noobie@mail.com',
-           'firstName': 'Kamu Dapat Spamming dari BYPG Hacked',
+           'firstName': 'BYPG Hacked',
            'lastName': 'Gans',
            'mobileNumber': no,
            'mccCardNumber': '',
